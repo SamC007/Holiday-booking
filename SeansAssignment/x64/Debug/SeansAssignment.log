@@ -1,0 +1,11 @@
+﻿  clsactivities.cpp
+  clsactivitiesdetails.cpp
+  clsadmindetails.cpp
+  clscustomerlocation.cpp
+  clsfamilydetails.cpp
+  clslocationdetails.cpp
+  common.cpp
+  SeansAssignment.cpp
+  Generating Code...
+C:\Users\samue\Desktop\SeansAssignment\SeansAssignment.cpp(122): warning C4715: 'Admin': not all control paths return a value
+  SeansAssignment.vcxproj -> C:\Users\samue\Desktop\SeansAssignment\x64\Debug\SeansAssignment.exe

@@ -1,0 +1,24 @@
+﻿  SeansAssignment.cpp
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(111,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(318,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(336,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(349,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(365,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(423,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(473,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(484,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(588,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(629,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(636,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(672,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(768,49): warning C4018: '<': signed/unsigned mismatch
+  clsactivities.cpp
+  clsactivitiesdetails.cpp
+  clsadmindetails.cpp
+  clscustomerlocation.cpp
+  clsfamilydetails.cpp
+  clslocationdetails.cpp
+  common.cpp
+  Generating Code...
+C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\SeansAssignment.cpp(122): warning C4715: 'Admin': not all control paths return a value
+  SeansAssignment.vcxproj -> C:\Users\samue\Documents\Visual Studio 2019\Projects\SeansAssignment\Debug\SeansAssignment.exe
